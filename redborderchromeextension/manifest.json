@@ -1,0 +1,13 @@
+{
+  "name" : "Red Border Chrome Extension",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description" : "Debug",
+  "content_scripts" : [
+    {
+      "matches": ["*://adnjoo.com/*"],
+      "js": ["init.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}
