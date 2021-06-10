@@ -10,5 +10,5 @@ v0.1
 toggle on/off (red border)
 
 to do
-1. add different colors (green, blue, red)
+1. add different colors (green, blue, red)c
 2. add some better styling to the popup.
