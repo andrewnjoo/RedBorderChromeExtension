@@ -13,17 +13,17 @@ function buttonlistener() {
 
 //change border color of all elements to red
 function handleclick() {
-    if (displayBorder) {
+    if (!displayBorder) {
         // switch on - sets button border to green - applies red borders
         document.getElementById("123").innerHTML = "turn off!";
         document.body.style.border = '5px solid red';
         chrome.tabs.query({"active": true, "currentWindow": true}, handleApplyBorderScript);
-        displayBorder = false;
+        displayBorder = true;
     } else {
         document.getElementById("123").innerHTML = "turn on!";
         document.body.style.border = '1px solid grey';
         chrome.tabs.query({"active": true, "currentWindow": true}, handleRemoveBorderScript);
-        displayBorder = true;
+        displayBorder = false;
     }
 }
 
@@ -31,8 +31,7 @@ function handleclick() {
 function handleApplyBorderScript(tab) {
     chrome.tabs.executeScript(null, {file: "./apply_border.js"});
   }
-  
+
 function handleRemoveBorderScript(tab) {
     chrome.tabs.executeScript(null, {file: "./remove_border.js"});
   }
-  
