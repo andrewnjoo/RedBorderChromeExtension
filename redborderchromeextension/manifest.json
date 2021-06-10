@@ -4,7 +4,7 @@
     "default_icon": "./images/icon.png"
  },
  "icons": {
-  "16": ".w/images/icon.png"
+  "16": "./images/icon.png"
 },
   "name" : "Red Border Chrome Extension",
   "version": "0.0.0.1",
