@@ -22,4 +22,4 @@ green for article outline
 2. add some better styling to the popup.
 
 
-[download link](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg)
+[chrome web store link](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg)
