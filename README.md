@@ -18,8 +18,9 @@ to do
 e.g. red for div outline
 blue for p outline
 green for article outline
-
 2. add some better styling to the popup.
 
+known bugs
+unable to run on native html - my guess is that this is a CORS issue. As I tried other Chrome Xtns like Outline It and HTML Hierarchy Visualizer. 
 
 [chrome web store link](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg)
