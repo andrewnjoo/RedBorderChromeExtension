@@ -7,7 +7,7 @@ use to debug html/css and view/learn box model
 4. Load unpacked (directory)
 
 v0.0.0.1
-toggle on/off (red border)
+- toggle on/off (red border)
 
 v0.0.0.2
 - fixed some bugs 
