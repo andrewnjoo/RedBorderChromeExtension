@@ -1,7 +1,10 @@
 # RedBorderChromeExtension
-use to debug html/css and view/learn box model
+Description: Use to debug HTML/CSS and view/learn box model.
 
-1. Download folder / git clone repo 
+[Chrome web store link](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg)
+
+Alternative install
+1. git clone repo 
 2. Go to chrome://extensions
 3. Make sure Developer mode is (on)
 4. Load unpacked (directory)
@@ -21,6 +24,4 @@ green for article outline
 2. add some better styling to the popup.
 
 known bugs
-1. unable to run on local html sites - my guess is that this is a CORS issue. As I tried other Chrome Xtns like Outline It and HTML Hierarchy Visualizer. 
-
-[chrome web store link](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg)
+1. unable to run on local html sites - possibly a CORS issue, as I tried other chrome xtns like Outline It and HTML Hierarchy Visualizer. 
