@@ -22,6 +22,3 @@ e.g. red for div outline
 blue for p outline
 green for article outline
 2. add some better styling to the popup.
-
-known bugs
-1. unable to run on local html sites - possibly a CORS issue, as I tried other chrome xtns like Outline It and HTML Hierarchy Visualizer. 
