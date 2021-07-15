@@ -4,6 +4,7 @@ Description: Use to debug HTML/CSS and view/learn box model.
 [Chrome web store link](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg)
 
 Alternative install
+
 1.
 ```
 git clone https://github.com/adnjoo/RedBorderChromeExtension
