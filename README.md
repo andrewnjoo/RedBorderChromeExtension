@@ -9,7 +9,7 @@ Alternative install
 ```
 git clone https://github.com/adnjoo/RedBorderChromeExtension
 ```
-2. Go to chrome://extensions
+2. Go to [chrome://extensions](chrome://extensions/)
 3. Make sure Developer mode is (on)
 4. Click load unpacked (directory)
 
