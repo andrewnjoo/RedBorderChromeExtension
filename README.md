@@ -13,6 +13,11 @@ git clone https://github.com/adnjoo/RedBorderChromeExtension
 3. Make sure Developer mode is (on)
 4. Click load unpacked (directory)
 
+v0.0.3
+- updated to manifest 3
+- show on/off text in icon
+- add shortcut for Ctrl + B (windows) or ⌘ + B (mac) to toggle red border on/off
+
 v0.0.0.1
 - toggle on/off (red border)
 
