@@ -13,21 +13,19 @@ git clone https://github.com/adnjoo/RedBorderChromeExtension
 3. Make sure Developer mode is (on)
 4. Click load unpacked (directory)
 
-v0.0.3
+v0.0.3 (2023)
 - updated to manifest 3
 - show on/off text in icon
 - add shortcut for Ctrl + B (windows) or ⌘ + B (mac) to toggle red border on/off
 
-v0.0.0.1
-- toggle on/off (red border)
-
-v0.0.0.2
+v0.0.0.2 (2021)
 - fixed some bugs 
 - changed border to outline to keep box size the same
 
+v0.0.0.1 (2021)
+- toggle on/off (red border)
+
+
 to do
 1. add different colors (green, blue, red)
-e.g. red for div outline
-blue for p outline
-green for article outline
 2. add some better styling to the popup.
