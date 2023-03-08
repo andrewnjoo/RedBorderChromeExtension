@@ -26,6 +26,7 @@ v0.0.0.1 (2021)
 - toggle on/off (red border)
 
 
-to do
-1. add different colors (green, blue, red)
-2. add some better styling to the popup.
+TODO:
+1. add option to turn off ⌘+B keyboard shortcut as it interferes with other websites that have this hotkey e.g. Notion bold text shortcut is also ⌘+B
+2. add different colors (green, blue, red)
+3. add some better styling to the popup.
