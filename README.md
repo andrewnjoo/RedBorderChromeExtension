@@ -30,3 +30,9 @@ TODO:
 1. add option to turn off ⌘+B keyboard shortcut as it interferes with other websites that have this hotkey e.g. Notion bold text shortcut is also ⌘+B
 2. add different colors (green, blue, red)
 3. add some better styling to the popup.
+
+## Keyboard shortcuts workaround
+
+**chrome://extensions/shortcuts**
+
+![Screenshot 2023-11-06 at 9 00 44 AM](https://github.com/adnjoo/RedBorderChromeExtension/assets/22807629/78ec08c6-f06f-4616-8fa5-a82ecc240a1c)
