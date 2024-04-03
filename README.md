@@ -18,6 +18,7 @@ git clone https://github.com/andrewnjoo/RedBorderChromeExtension
 
 ### Keyboard shortcuts workaround
 
-**chrome://extensions/shortcuts**
+1. Go to **chrome://extensions/shortcuts**
+2. Edit the shortcut input box to your preferred shortcut e.g. `⌘ + ⇧ + B` or `⌃ + ⇧ + R`
 
 ![Screenshot 2023-11-06 at 9 00 44 AM](https://github.com/adnjoo/RedBorderChromeExtension/assets/22807629/78ec08c6-f06f-4616-8fa5-a82ecc240a1c)
