@@ -9,7 +9,7 @@ Description: Use to debug HTML/CSS and view/learn box model.
 
 1.
 ```
-git clone https://github.com/adnjoo/RedBorderChromeExtension
+git clone https://github.com/andrewnjoo/RedBorderChromeExtension
 ```
 2. Go to chrome://extensions
 3. Make sure Developer mode is (on)
