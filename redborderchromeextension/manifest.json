@@ -2,9 +2,11 @@
   "manifest_version": 3,
   "name": "Red Border Chrome Extension",
   "description": "Debug HTML/CSS by adding red outline to all elements",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icons": {
-    "16": "./images/icon.png"
+    "16": "./images/icon16.png",
+    "48": "./images/icon48.png",
+    "128": "./images/icon128.png"
   },
   "permissions": ["activeTab", "scripting"],
   "action": {
