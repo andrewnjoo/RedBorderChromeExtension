@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.0.5 (2024)
+
+- update icon
+- update shortcut to Command+Shift+B
+
 ## v0.0.3 (2023)
 
 - updated to manifest 3
